@@ -1,7 +1,8 @@
 repo_name: joshbrooks/django-vite-example
 report_id: 88eaad5fa6450dd754412474a92d6862
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T23:48:23+00:00'
+timestamp: '2024-01-04T15:17:11+00:00'
 requested_by: MrBin99
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/joshbrooks/django-vite-example
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/joshbrooks/django-vite-example
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/joshbrooks/django-vite-example
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/joshbrooks/django-vite-example
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -53,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/joshbrooks/django-vite-example/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: MrBin99
   last_updated_on: 2021-06-18 19:02:15.000000000 Z
